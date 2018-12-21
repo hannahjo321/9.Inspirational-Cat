@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  margin: 0px;
+  font-family: sans-serif;
+  background-image: url(https://static.pexels.com/photos/19670/pexels-photo.jpg);
+}
+
+.stuff {
+width: 80vw;
+height: 80vh;
+
+}
+
+#quote {
+  font-size: 25px;
+  font-family: cursive;
+}
+
+img{
+width: 300px;
+vertical-align: text-top;
+}
